@@ -33,9 +33,10 @@
     "contact-address": "<p class='subtitle'>Address</p><p>Calçada da Quintinha, 3A<br/>Campolide, 1070-211 Lisbon</p>",
     "contact-phone": "<p class='subtitle'>Phone number</p><p>T: +351 21 386 00 28</p>",
     "contact-schedule": "<p class='subtitle'>Schedule</p><p>Monday to Friday: 8:00 AM to 7:00 PM.<br/>Saturday: 9:00 AM to 12:00 AM.<br/>Sunday: closed.<br/>Mobile van: Monday to Friday: 10:00 AM to 10:00 PM.</p>",
-    "suggestions-title": "<img src='images/titles/sugestions-en.svg' class='title'>",
-    "suggestions-name": "Name",
-    "suggestions-subject": "Subject",
-    "suggestions-message": "Message",
-    "suggestions-submit": "<input name='enviar' type='submit' value='Send' class='btn-contato-enviar'/>"
+    "franchising-title": "<img src='images/titles/franchising.svg' class='title'>",
+    "franchising-name": "Name",
+    "franchising-subject": "Subject",
+    "franchising-message": "Message",
+    "franchising-submit": "<input name='enviar' type='submit' value='Send' class='btn-contato-enviar'/>",
+    "franchising-content": "<p>COBBLER EXPRESS is a serious, viable and safe bet for any entrepreneur who wants to create their own business or self-employment, supported by a registered brand and with the trust of the client and more than 40 partners between public and private companies all implemented at a national level</p>If you are motivated, active, looking for new professional experiences and if you already have knowledge in the area of ​​shoe repair and key duplication, this opportunity is for you. </p> <br/> <br/><p> We give you all the support you need to boost and implement your business. We have a network of partners who can help you create the best ideas for implementing the mobile workshop. The <b>COBBLER EXPRESS</b> makes its know-how, image, and concept available at an affordable cost. </p> <br /> <br /><p> If you want to be part of a unique national repair network for homes and without any competition, contact us, ask for information. We are at your disposal for all the necessary information. We are looking for franchisees throughout the national territory except Lisbon. </p> <br /> <br /><p> We provide support in investment solutions. </p> <br /> <br /><p> For any questions related to this opportunity, please contact: <b>96 937 87 99</b>. </p><br/><br/>"
 }

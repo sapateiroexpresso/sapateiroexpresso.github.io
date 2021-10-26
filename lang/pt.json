@@ -33,9 +33,10 @@
     "contact-address": "<p class='subtitle'>Morada</p><p>Calçada da Quintinha, 3A<br/>Campolide, 1070-211 Lisbon</p>",
     "contact-phone": "<p class='subtitle'>Telefones</p><p>M: 964 363 192</p><p>T: 21 386 00 28</p>",
     "contact-schedule": "<p class='subtitle'>Horários</p><p>2ª a 6ª das 8:00 às 19:00.<br/>Sábados das 9:00 às 12:00.<br/>Domingo encerramos.<br/>Oficina Móvel: 2ª a 6ª das 10:00 às 22:00.</p>",
-    "suggestions-title": "<img src='images/titles/sugestions-pt.svg' class='title'>",
-    "suggestions-name": "Nome",
-    "suggestions-subject": "Assunto",
-    "suggestions-message": "Menssagem",
-    "suggestions-submit": "<input name='enviar' type='submit' value='Enviar' class='btn-contato-enviar'/>"
+    "franchising-title": "<img src='images/titles/franchising.svg' class='title'>",
+    "franchising-name": "Nome",
+    "franchising-subject": "Assunto",
+    "franchising-message": "Menssagem",
+    "franchising-submit": "<input name='enviar' type='submit' value='Enviar' class='btn-contato-enviar'/>",
+    "franchising-content": "<p>O <b>SAPATEIRO EXPRESSO MÓVEL</b> nasceu em 2015 da necessidade do cliente e verificando que existia uma lacuna no mercado, apostámos por isso num serviço de proximidade e de qualidade na hora. É uma aposta séria, viável e segura para qualquer empreendedor que queira criar o seu próprio negócio ou auto-emprego, apoiado numa marca registada e com a confiança do cliente e mais de 40 parceiros entre empresas públicas e privadas todas implementadas a nível Nacional. </p><br /><br /><p>Se é alguém motivado, activo, à procura de novas experiências profissionais e se já tem conhecimentos na área de reparação de calçado e duplicação de chaves esta oportunidade é para si. </p><br/><br/><p>Damos-lhe todo o apoio necessário à dinamização e implementação do negócio. Contamos com uma rede de parceiros que o poderão ajudar a criar as melhores ideias para implementação da oficina móvel. O SAPATEIRO EXPRESSO disponibiliza o seu know-how, imagem, e conceito, a um custo acessível. </p><br /><br /><p>Se quer fazer parte de uma rede Nacional de reparação ao domicílio único e sem qualquer concorrência, contacte-nos, peça informações, nós pomos ao seu dispor toda a informação necessária. Procuramos franchisados em todo o território Nacional excepto Lisboa. </p><br /><br /><p>Apoio nas soluções de investimento. </p><br /><br /><p>Qualquer assunto relacionado com esta oportunidade é favor contactar: <b>96 937 87 99</b>. </p><br/><br/>"
 }

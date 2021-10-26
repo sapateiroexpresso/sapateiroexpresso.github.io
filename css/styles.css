@@ -225,24 +225,25 @@ header .container {
         top: 10px;
         height: 30px; }
 
-.suggestions .title {
+
+.franchising .title {
   display: block;
   margin: 0 auto;
   margin-bottom: 50px;
   margin-top: 50px;
   width: 60%;
   height: auto; }
-.suggestions form label, .suggestions form input, .suggestions form textarea {
+.franchising form label, .franchising form input, .franchising form textarea {
   width: 90%;
   display: block;
   margin: 0 auto; }
-.suggestions form input {
+.franchising form input {
   height: 2em;
   margin-bottom: 20px; }
-.suggestions form textarea {
+.franchising form textarea {
   height: 200px;
   margin-bottom: 20px; }
-.suggestions form input[type=submit] {
+.franchising form input[type=submit] {
   width: 20%;
   margin-left: 5%;
   font-family: 'VerlagCond';
@@ -593,24 +594,24 @@ header .container {
             height: 30px;
             margin-right: 6px; }
 
-  .suggestions .title {
+  .franchising .title {
     display: block;
     margin: 0 auto;
     margin-bottom: 50px;
     margin-top: 50px;
     width: 269px;
     height: 61px; }
-  .suggestions form label, .suggestions form input, .suggestions form textarea {
+  .franchising form label, .franchising form input, .franchising form textarea {
     width: 90%;
     display: block;
     margin: 0 auto; }
-  .suggestions form input {
+  .franchising form input {
     height: 2em;
     margin-bottom: 20px; }
-  .suggestions form textarea {
+  .franchising form textarea {
     height: 200px;
     margin-bottom: 20px; }
-  .suggestions form input[type=submit] {
+  .franchising form input[type=submit] {
     width: 20%;
     margin-left: 5%;
     font-family: 'VerlagCond';
@@ -872,24 +873,24 @@ header .container {
         .contact .container #social div p {
           margin-top: 10px; }
 
-  .suggestions .title {
+  .franchising .title {
     display: block;
     margin: 0 auto;
     margin-bottom: 50px;
     margin-top: 50px;
     width: 269px;
     height: 61px; }
-  .suggestions form label, .suggestions form input, .suggestions form textarea {
+  .franchising form label, .franchising form input, .franchising form textarea {
     width: 90%;
     display: block;
     margin: 0 auto; }
-  .suggestions form input {
+  .franchising form input {
     height: 2em;
     margin-bottom: 20px; }
-  .suggestions form textarea {
+  .franchising form textarea {
     height: 200px;
     margin-bottom: 20px; }
-  .suggestions form input[type=submit] {
+  .franchising form input[type=submit] {
     width: 10%;
     margin-left: 5%;
     font-family: 'VerlagCond';
